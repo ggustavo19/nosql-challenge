@@ -1,7 +1,7 @@
 <html lang="en">
 <body>
     <p>The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.</p>
-    <h1>Part 1: Database and Jupyter Notebook Set Up</h1>
+    <h2>Part 1: Database and Jupyter Notebook Set Up</h2>
     <ol>
         <li>Use NoSQL_setup_starter.ipynb for this section of the challenge.</li>
         <li>Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown cell in your notebook.</li>
@@ -16,7 +16,7 @@
         </li>
         <li>Assign the establishments collection to a variable to prepare the collection for use.</li>
     </ol>
-    <h2>Part 2: Update the Database</h2>
+    <h3>Part 2: Update the Database</h3>
     <ol>
         <li>Use NoSQL_setup_starter.ipynb for this section of the challenge.</li>
         <li>The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
@@ -31,7 +31,7 @@
             </ol>
         </li>
     </ol>
-    <h3>Part 3: Exploratory Analysis</h3>
+    <h4>Part 3: Exploratory Analysis</h4>
     <p>Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.</p>
     <p>Use NoSQL_analysis_starter.ipynb for this section of the challenge.</p>
     <p>Some notes to be aware of while you are exploring the dataset:</p>
